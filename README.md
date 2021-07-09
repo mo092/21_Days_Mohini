@@ -4,3 +4,4 @@ KJSCE
 Intermediate I'll start learning some Machine Learning Algorithms
 
 Day 1: Few functions of pandas used for data cleaning
+Day 2: Read more about Data Cleaning
