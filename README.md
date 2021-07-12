@@ -7,3 +7,4 @@ Day 1: Few functions of pandas used for data cleaning
 Day 2: Read more about Data Cleaning
 Day 3: Introduction to Machine Learning and its types
 Day 4: Linear Regression- Very basics
+Day 5: Linear Regression, Algebra, Equations, Patterns, The Least Square Method
