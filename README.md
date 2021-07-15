@@ -10,3 +10,4 @@ Day 4: Linear Regression- Very basics
 Day 5: Linear Regression, Algebra, Equations, Patterns, The Least Square Method
 Day 6: Linear Regression, Fit, Coefficient of Determination, Basic code for Linear regression 
 Day 7: Linear Regression, Standardized Regression, Coding for Linear Regression
+Day 8: Logistic Regression, Introduction, Probability, Odds, Odds ratio, Logit, Regression Equation, Estimating the probability, Odds ratio for any interval, Logistic regression in Excel & google sheet
