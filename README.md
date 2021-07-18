@@ -13,3 +13,4 @@ Day 7: Linear Regression, Standardized Regression, Coding for Linear Regression
 Day 8: Logistic Regression, Introduction, Probability, Odds, Odds ratio, Logit, Regression Equation, Estimating the probability, Odds ratio for any interval, Logistic regression in Excel & google sheet
 Day 9: Example projects on Logistic Regression
 Day 10: Decision Tree, Introduction
+Day 11: Decision tree example project
