@@ -14,3 +14,4 @@ Day 8: Logistic Regression, Introduction, Probability, Odds, Odds ratio, Logit, 
 Day 9: Example projects on Logistic Regression
 Day 10: Decision Tree, Introduction
 Day 11: Decision tree example project
+Day 12: Practice Project
