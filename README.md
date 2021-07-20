@@ -15,3 +15,4 @@ Day 9: Example projects on Logistic Regression
 Day 10: Decision Tree, Introduction
 Day 11: Decision tree example project
 Day 12: Practice Project
+Day 13: Decision trees, how to use decision trees to make decisions, descriptions of decision trees and their parts
