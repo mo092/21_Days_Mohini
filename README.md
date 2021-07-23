@@ -18,3 +18,4 @@ Day 12: Practice Project
 Day 13: Decision trees, how to use decision trees to make decisions, descriptions of decision trees and their parts
 Day 14: Decision trees, how to build a decision tree, calculating gini impurity
 Day 15: Decision trees- Numeric and continuous variable, ranked data, multiple choice data, KNN- Introduction
+Day 16: KNN applied to scatter plot data and heat maps
