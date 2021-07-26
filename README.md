@@ -21,3 +21,4 @@ Day 15: Decision trees- Numeric and continuous variable, ranked data, multiple c
 Day 16: KNN applied to scatter plot data and heat maps
 Day 17: KNN implementation
 Day 18: KNN Example Project
+Day 19: Kmeans clustering Introduction 
