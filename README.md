@@ -22,3 +22,4 @@ Day 16: KNN applied to scatter plot data and heat maps
 Day 17: KNN implementation
 Day 18: KNN Example Project
 Day 19: Kmeans clustering Introduction 
+Day 20: Kmeans, how to pick a value for k, kmeans vs hierarchical clustering 
